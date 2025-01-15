@@ -13,8 +13,10 @@ This project is a dynamic and responsive real estate web application developed u
 5.User-Friendly Navigation: Intuitive design for effortless browsing.
 
 # Technologies Used:
-1.Frontend: ReactJS, JavaScript, HTML5, CSS3
-2.Styling: CSS Modules / Styled Components
-3.State Management: React Hooks / Context API
+1.Frontend: ReactJS, JavaScript, HTML5, CSS3.
+
+2.Styling: CSS Modules / Styled Components.
+
+3.State Management: React Hooks / Context API.
 
 And other platform is used like Framer Motion, Bootstrap, Google Font etc.
